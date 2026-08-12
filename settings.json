@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tubaroo.aternos.me",
-    "port": 37260,
-    "version": "1.26.40.8",
+    "ip": "Tubaroo1.aternos.me",
+    "port": 32596,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
